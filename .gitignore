@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+yolov8n.pt
+yolov8m.pt
+yolov8*.pt
+*.egg-info/
+.env

@@ -1,0 +1,6 @@
+opencv-python
+opencv-contrib-python
+ultralytics
+matplotlib
+numpy
+scipy
